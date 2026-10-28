@@ -5,7 +5,7 @@
 
 cask "spumante" do
   version "1.0.0"
-  sha256 "6b53f931392cf1d62dd24a2b7e5ff20e16d51eaf210b77fcb4993a6e4005f633"
+  sha256 "ffc5987673d1215cb9d519d53e285ab642c11793a889e567e59ed5c07ed01722"
 
   url "https://github.com/markoer73/Spumante/releases/download/v#{version}/Spumante-Installer.dmg"
   name "Spumante"
